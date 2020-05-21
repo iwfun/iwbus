@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.iwfun.bus</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>demo-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>demo-consumer</name>
     <description>Demo for iwbus Consumer</description>

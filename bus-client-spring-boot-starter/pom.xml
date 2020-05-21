@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>bus-starter</artifactId>
+    <artifactId>bus-client-spring-boot-starter</artifactId>
 
 
 </project>

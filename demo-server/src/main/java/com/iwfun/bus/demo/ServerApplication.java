@@ -1,12 +1,15 @@
 package com.iwfun.bus.demo;
 
+import com.iwfun.bus.server.EnableBusServer;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 消息中心 demo
+ * bus center demo
+ *
  * @author Wind
  */
+@EnableBusServer
 @SpringBootApplication
 public class ServerApplication {
 

@@ -7,6 +7,5 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  */
 @ConfigurationProperties(prefix = "bus.server")
 public class BusServerProperties {
-    private String account;
-    private String password;
+    private AdminConfig admin;
 }
